@@ -1,2 +1,2 @@
 ## Version-Control-with-GIT
-### All course files
+### All course files from scratch to end
