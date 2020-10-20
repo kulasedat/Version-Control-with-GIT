@@ -1,2 +1,3 @@
-## Version Control with Git Course by Coursera
+## Version Control with Git 
+## Course by Coursera
 
